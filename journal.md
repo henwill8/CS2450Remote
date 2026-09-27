@@ -9,3 +9,6 @@ In computational theory we learned about the pumping lemma, and to prove that a 
 
 9/20/2026:
 Climbing has been super fun recently and I've been feeling really really strong. I now go every day instead of giving myself rest days and for some reason my skin is much better and I dont feel tired this way.
+
+9/27/2026:
+I need to do my math homework. This unit is really easy so I havent wanted to do any of the homework cause it feels like busy work but I am like a week and a half behind so I am gonna do as much as I can today.
