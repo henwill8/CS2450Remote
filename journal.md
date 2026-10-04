@@ -12,3 +12,6 @@ Climbing has been super fun recently and I've been feeling really really strong.
 
 9/27/2026:
 I need to do my math homework. This unit is really easy so I havent wanted to do any of the homework cause it feels like busy work but I am like a week and a half behind so I am gonna do as much as I can today.
+
+10/4/2026:
+ICPC had a competitive programming contest on Kattis yesterday but their server's were running so slow from all the load so it was hard to do anything. One of the problems was kind of lame because it first was described like an optimization problem but then they defined the cuts as infinitely small so then just the single best cut repeated over and over was the best solution, and it is really easy to find the best cut in O(n^2) but they required an O(n) solution
