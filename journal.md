@@ -15,3 +15,6 @@ I need to do my math homework. This unit is really easy so I havent wanted to do
 
 10/4/2026:
 ICPC had a competitive programming contest on Kattis yesterday but their server's were running so slow from all the load so it was hard to do anything. One of the problems was kind of lame because it first was described like an optimization problem but then they defined the cuts as infinitely small so then just the single best cut repeated over and over was the best solution, and it is really easy to find the best cut in O(n^2) but they required an O(n) solution
+
+10/11/2026:
+I tried agentic programming today and it was very interesting. It feels like another form of abstraction, where now I need to think higher level on what I want done and then the specifics will be handled for me, though in its current state I feel like I still need to review every line that it writes.
