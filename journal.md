@@ -18,3 +18,6 @@ ICPC had a competitive programming contest on Kattis yesterday but their server'
 
 10/11/2026:
 I tried agentic programming today and it was very interesting. It feels like another form of abstraction, where now I need to think higher level on what I want done and then the specifics will be handled for me, though in its current state I feel like I still need to review every line that it writes.
+
+10/20/2026:
+I am pretty stressed this week, I have a lot of things going on. I have a math test next Tuesday, an interview at Google sometime in the next two weeks, a percussion ensemble performance in 2 weeks, an audition at Boston Crusaders to prepare for, general homework, and a competitive programming competition in 2 weeks.
