@@ -21,3 +21,6 @@ I tried agentic programming today and it was very interesting. It feels like ano
 
 10/20/2026:
 I am pretty stressed this week, I have a lot of things going on. I have a math test next Tuesday, an interview at Google sometime in the next two weeks, a percussion ensemble performance in 2 weeks, an audition at Boston Crusaders to prepare for, general homework, and a competitive programming competition in 2 weeks.
+
+10/25/2026:
+Playing marimba with a concrete goal again has been super fun. I've been procrastinating for my math class, the test is tomorrow and I gotta learn the full unit and do all the homeworks
