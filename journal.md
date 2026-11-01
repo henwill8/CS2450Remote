@@ -24,3 +24,6 @@ I am pretty stressed this week, I have a lot of things going on. I have a math t
 
 10/25/2026:
 Playing marimba with a concrete goal again has been super fun. I've been procrastinating for my math class, the test is tomorrow and I gotta learn the full unit and do all the homeworks
+
+11/1/2026:
+Got through one of my Google interviews, have another one on wednesday. I have a test this week and an event for a class and then a concert next week. Still making it through the semester slowly but surely
