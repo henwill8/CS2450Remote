@@ -27,3 +27,6 @@ Playing marimba with a concrete goal again has been super fun. I've been procras
 
 11/1/2026:
 Got through one of my Google interviews, have another one on wednesday. I have a test this week and an event for a class and then a concert next week. Still making it through the semester slowly but surely
+
+11/8/2026:
+The google interview went pretty well, most of my workload will be reduced in the next 2 days which will be very nice
