@@ -30,3 +30,6 @@ Got through one of my Google interviews, have another one on wednesday. I have a
 
 11/8/2026:
 The google interview went pretty well, most of my workload will be reduced in the next 2 days which will be very nice
+
+11/15/2026:
+Registered for next semester classes this week, only taking 13 credits and that will continue from here on out so I'm going to have so much more time now.
